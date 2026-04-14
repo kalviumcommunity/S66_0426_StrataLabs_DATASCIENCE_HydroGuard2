@@ -96,3 +96,34 @@ This unit moves from environment verification into notebook execution flow. The 
 
 ## Final Outcome
 Unit 4.7 now ensures Jupyter launches predictably and that contributors understand the home interface before writing analysis notebooks.
+
+---
+
+# Learning Unit 4.8 - Understanding Notebook Cells: Code vs Markdown
+
+Date: 2026-04-14
+Time: 15:22 IST
+Generated At: 2026-04-14 15:22 IST
+
+## Introduction
+This unit establishes notebook communication discipline: explain with markdown, execute with code. This distinction is essential for making the flood-risk workflow auditable and easy to review.
+
+## What Was Built
+- Added `notebooks/04_08_code_vs_markdown_cells.ipynb` demonstrating clear separation between narrative and executable logic.
+- Added `notebooks/README.md` to index onboarding notebooks for easy navigation.
+
+## Step-by-Step Explanation
+1. Created markdown cells that describe purpose and interpretation.
+2. Added a code cell that computes average rainfall from a small sample.
+3. Added notebook guidance on when to use each cell type.
+4. Documented notebook index so unit progression remains structured.
+
+## Challenges Faced
+- Early notebooks often mix explanation and code in inconsistent ways.
+
+## Solutions Applied
+- Introduced a reference notebook pattern with explicit markdown-to-code flow.
+- Added notebook index documentation for consistent onboarding.
+
+## Final Outcome
+Unit 4.8 now provides a reusable notebook structure pattern that improves readability, reproducibility, and handoff quality.

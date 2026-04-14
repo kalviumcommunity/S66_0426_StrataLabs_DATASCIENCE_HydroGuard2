@@ -70,3 +70,26 @@ Generated At: 2026-04-14 15:21 IST
 
 ## Output/Result
 The project now includes an operational Jupyter entrypoint and a guided home-interface notebook for consistent notebook-based development.
+
+---
+
+# Learning Unit 4.8 - Unit Summary
+
+Date: 2026-04-14
+Time: 15:22 IST
+Generated At: 2026-04-14 15:22 IST
+
+## What It Covers
+- Differentiating markdown cells and code cells in Jupyter notebooks.
+- Building a clean notebook communication pattern for data workflows.
+
+## Features Implemented
+- Added `notebooks/04_08_code_vs_markdown_cells.ipynb`.
+- Added `notebooks/README.md` as a notebook index.
+
+## Key Learnings
+- Narrative and execution separation makes notebooks easier to debug and review.
+- A notebook index improves discoverability as unit count increases.
+
+## Output/Result
+The project now has a reference notebook pattern that standardizes documentation and execution for future data analysis tasks.
