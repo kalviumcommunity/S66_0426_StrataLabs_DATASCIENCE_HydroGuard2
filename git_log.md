@@ -33,3 +33,15 @@
   - Added `scripts/launch_jupyter.py` to launch notebook server in the project workspace
   - Added `notebooks/04_07_jupyter_home_interface.ipynb` with a practical interface checklist
   - Updated README with a direct command to start Jupyter for project work
+
+### Learning Unit: 4.8 Understanding Notebook Cells: Code vs Markdown
+
+- Branch Name: notebook-code-markdown-cells
+
+- Commits:
+  - docs(notebook): add code-vs-markdown reference notebook structure
+
+- Merge Description:
+  - Added `notebooks/04_08_code_vs_markdown_cells.ipynb` to demonstrate cell-type responsibilities
+  - Added `notebooks/README.md` for notebook discovery and progression
+  - Established a reusable notebook communication pattern for upcoming analysis units

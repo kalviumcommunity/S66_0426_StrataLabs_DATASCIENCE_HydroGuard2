@@ -91,3 +91,33 @@ Interface behavior is often assumed and left undocumented.
 
 ### Solution
 Added `notebooks/04_07_jupyter_home_interface.ipynb` with a checklist and workspace verification cell.
+
+---
+
+## Learning Unit 4.8 - Understanding Notebook Cells: Code vs Markdown
+
+### Issue Description
+Notebook authors can blur documentation and execution, reducing clarity.
+
+### When It Occurred
+During preparation of the first analysis-style notebook template.
+
+### Root Cause
+No standard pattern existed for markdown and code cell responsibilities.
+
+### Solution
+Created `notebooks/04_08_code_vs_markdown_cells.ipynb` as a reference pattern.
+
+---
+
+### Issue Description
+Notebook discoverability becomes difficult as units grow.
+
+### When It Occurred
+While adding a second notebook.
+
+### Root Cause
+Missing central index for notebook files.
+
+### Solution
+Added `notebooks/README.md` to track notebook purpose and sequence.
