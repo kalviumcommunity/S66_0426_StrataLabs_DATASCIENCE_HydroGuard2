@@ -151,3 +151,33 @@ No prior hands-on example existed for interrupt behavior.
 
 ### Solution
 Added a timed processing loop to practice interrupt and restart decisions.
+
+---
+
+## Learning Unit 4.10 - Writing Markdown for Headings, Lists, and Code Blocks in Notebooks
+
+### Issue Description
+Notebook documentation styles can drift and reduce readability.
+
+### When It Occurred
+While preparing reusable notebook templates.
+
+### Root Cause
+No shared markdown reference existed for headings, lists, and code blocks.
+
+### Solution
+Added `notebooks/04_10_markdown_patterns.ipynb` with project-aligned markdown examples.
+
+---
+
+### Issue Description
+Documentation and executable logic may become disconnected in notebooks.
+
+### When It Occurred
+During markdown template design.
+
+### Root Cause
+Examples often stop at documentation and skip linked runnable code.
+
+### Solution
+Added matching executable code cell to mirror the markdown code block example.

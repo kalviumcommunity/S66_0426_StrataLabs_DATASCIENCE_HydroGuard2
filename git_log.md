@@ -57,3 +57,15 @@
   - Added `notebooks/04_09_kernel_lifecycle_controls.ipynb` with run/interrupt/restart examples
   - Extended `notebooks/README.md` to include kernel lifecycle workflow
   - Documented reproducibility-focused kernel handling guidance for future units
+
+### Learning Unit: 4.10 Writing Markdown for Headings, Lists, and Code Blocks in Notebooks
+
+- Branch Name: notebook-markdown-writing
+
+- Commits:
+  - docs(notebook): add markdown style reference notebook
+
+- Merge Description:
+  - Added `notebooks/04_10_markdown_patterns.ipynb` with headings, lists, and fenced code blocks
+  - Linked markdown examples to executable code for practical usage
+  - Updated notebook index to keep onboarding progression clear
