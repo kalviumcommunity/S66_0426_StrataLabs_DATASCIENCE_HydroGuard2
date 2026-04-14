@@ -121,3 +121,33 @@ Missing central index for notebook files.
 
 ### Solution
 Added `notebooks/README.md` to track notebook purpose and sequence.
+
+---
+
+## Learning Unit 4.9 - Running, Restarting, and Interrupting Jupyter Kernels
+
+### Issue Description
+Notebook outputs can become inconsistent when execution order is not linear.
+
+### When It Occurred
+During planning for reproducible notebook workflows.
+
+### Root Cause
+Kernel state persists variables across cells, even when earlier logic changed.
+
+### Solution
+Added `notebooks/04_09_kernel_lifecycle_controls.ipynb` with restart and rerun guidelines.
+
+---
+
+### Issue Description
+Long-running notebook cells need a controlled interrupt pattern.
+
+### When It Occurred
+While designing practical kernel lifecycle examples.
+
+### Root Cause
+No prior hands-on example existed for interrupt behavior.
+
+### Solution
+Added a timed processing loop to practice interrupt and restart decisions.

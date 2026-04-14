@@ -127,3 +127,34 @@ This unit establishes notebook communication discipline: explain with markdown, 
 
 ## Final Outcome
 Unit 4.8 now provides a reusable notebook structure pattern that improves readability, reproducibility, and handoff quality.
+
+---
+
+# Learning Unit 4.9 - Running, Restarting, and Interrupting Jupyter Kernels
+
+Date: 2026-04-14
+Time: 15:24 IST
+Generated At: 2026-04-14 15:24 IST
+
+## Introduction
+This unit focuses on controlling notebook execution state. Proper kernel lifecycle management prevents silent logic errors and ensures that flood-analysis outputs are reproducible.
+
+## What Was Built
+- Added `notebooks/04_09_kernel_lifecycle_controls.ipynb` with practical run/interrupt/restart examples.
+- Updated notebook index to include kernel-control guidance in the onboarding path.
+
+## Step-by-Step Explanation
+1. Added markdown guidance for when to run, interrupt, and restart kernels.
+2. Added a timed loop code cell to simulate long-running operations.
+3. Added a post-restart state cell to reinforce variable restoration behavior.
+4. Updated `notebooks/README.md` to keep notebook progression clear.
+
+## Challenges Faced
+- Kernel state can hide stale variables and create misleading results.
+
+## Solutions Applied
+- Included explicit restart-and-rerun instructions and state reinitialization example.
+- Documented kernel control as part of required notebook discipline.
+
+## Final Outcome
+Unit 4.9 now equips the project with a concrete kernel-control reference, reducing execution-state errors in future data and modeling notebooks.

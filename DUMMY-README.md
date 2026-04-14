@@ -93,3 +93,27 @@ Generated At: 2026-04-14 15:22 IST
 
 ## Output/Result
 The project now has a reference notebook pattern that standardizes documentation and execution for future data analysis tasks.
+
+---
+
+# Learning Unit 4.9 - Unit Summary
+
+Date: 2026-04-14
+Time: 15:24 IST
+Generated At: 2026-04-14 15:24 IST
+
+## What It Covers
+- Running notebook cells in sequence.
+- Interrupting stuck execution safely.
+- Restarting kernels and rebuilding execution state.
+
+## Features Implemented
+- Added `notebooks/04_09_kernel_lifecycle_controls.ipynb`.
+- Updated notebook index in `notebooks/README.md`.
+
+## Key Learnings
+- Restart-and-rerun discipline is essential for reproducible analysis.
+- Interrupt controls are required for safe handling of long-running cells.
+
+## Output/Result
+The project now has a kernel lifecycle practice notebook to reduce state-related notebook errors.

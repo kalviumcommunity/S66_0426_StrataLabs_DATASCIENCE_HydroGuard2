@@ -45,3 +45,15 @@
   - Added `notebooks/04_08_code_vs_markdown_cells.ipynb` to demonstrate cell-type responsibilities
   - Added `notebooks/README.md` for notebook discovery and progression
   - Established a reusable notebook communication pattern for upcoming analysis units
+
+### Learning Unit: 4.9 Running, Restarting, and Interrupting Jupyter Kernels
+
+- Branch Name: jupyter-kernel-controls
+
+- Commits:
+  - docs(notebook): add kernel lifecycle practice notebook
+
+- Merge Description:
+  - Added `notebooks/04_09_kernel_lifecycle_controls.ipynb` with run/interrupt/restart examples
+  - Extended `notebooks/README.md` to include kernel lifecycle workflow
+  - Documented reproducibility-focused kernel handling guidance for future units
