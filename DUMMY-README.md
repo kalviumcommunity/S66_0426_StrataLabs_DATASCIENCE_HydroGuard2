@@ -117,3 +117,27 @@ Generated At: 2026-04-14 15:24 IST
 
 ## Output/Result
 The project now has a kernel lifecycle practice notebook to reduce state-related notebook errors.
+
+---
+
+# Learning Unit 4.10 - Unit Summary
+
+Date: 2026-04-14
+Time: 15:26 IST
+Generated At: 2026-04-14 15:26 IST
+
+## What It Covers
+- Markdown headings for notebook structure.
+- Ordered and unordered lists for assumptions and steps.
+- Fenced code blocks for readable technical documentation.
+
+## Features Implemented
+- Added `notebooks/04_10_markdown_patterns.ipynb`.
+- Updated notebook index in `notebooks/README.md`.
+
+## Key Learnings
+- Consistent markdown patterns improve collaboration in notebook-heavy projects.
+- Pairing markdown examples with runnable cells keeps docs practical.
+
+## Output/Result
+The project now includes a markdown style reference notebook ready for future analysis and model notebooks.

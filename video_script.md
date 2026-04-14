@@ -158,3 +158,34 @@ This unit focuses on controlling notebook execution state. Proper kernel lifecyc
 
 ## Final Outcome
 Unit 4.9 now equips the project with a concrete kernel-control reference, reducing execution-state errors in future data and modeling notebooks.
+
+---
+
+# Learning Unit 4.10 - Writing Markdown for Headings, Lists, and Code Blocks in Notebooks
+
+Date: 2026-04-14
+Time: 15:26 IST
+Generated At: 2026-04-14 15:26 IST
+
+## Introduction
+This unit strengthens notebook documentation quality by standardizing markdown usage for headings, lists, and code blocks. Clear notebook writing is critical for team-readable flood analysis workflows.
+
+## What Was Built
+- Added `notebooks/04_10_markdown_patterns.ipynb` with practical markdown examples and linked executable code.
+- Updated notebook index to include the markdown writing reference.
+
+## Step-by-Step Explanation
+1. Added markdown heading hierarchy to structure analysis notes.
+2. Added unordered and ordered list examples for assumptions and checklist-style tasks.
+3. Added fenced code block examples for documenting reusable logic.
+4. Included corresponding executable code cell to connect documentation and implementation.
+
+## Challenges Faced
+- Markdown sections can become style-inconsistent without a common template.
+
+## Solutions Applied
+- Added a dedicated reference notebook for markdown patterns used in this project.
+- Tied markdown examples directly to flood-domain logic snippets.
+
+## Final Outcome
+Unit 4.10 now provides a clear notebook writing standard that improves readability, handoff quality, and long-term maintainability of project notebooks.
