@@ -32,3 +32,35 @@ In this learning unit, we set up the local environment needed to build the Flood
 
 ## Final Outcome
 Learning Unit 4.5 is complete with a branch-isolated setup foundation. The environment and repository orientation are now documented in a way that supports direct progression into Jupyter, Python basics, and data processing units without breaking product continuity.
+
+---
+
+# Learning Unit 4.6 - Verifying Python, Conda, and Jupyter Installation
+
+Date: 2026-04-14
+Time: 15:18 IST
+Generated At: 2026-04-14 15:18 IST
+
+## Introduction
+This unit validates the local tooling required for all data analysis workflows. We moved from installation intent to executable verification so the Flood Early Warning System can be developed in a reproducible environment.
+
+## What Was Built
+- A shared Conda environment definition in `environment.yml`.
+- A verification script in `scripts/verify_python_tools.py` to check Python runtime plus Conda/Jupyter availability.
+- Updated README setup instructions to standardize onboarding for the project.
+
+## Step-by-Step Explanation
+1. Added `.gitignore` entries for workflow-generated markdown artifacts as requested.
+2. Created `environment.yml` with the core analytics stack used in this project.
+3. Implemented a tool check script to validate `conda` and `jupyter` command availability and print versions.
+4. Added a local setup section in README with exact commands to create and verify the environment.
+
+## Challenges Faced
+- Tooling can differ by machine, especially command path resolution for Conda/Jupyter.
+
+## Solutions Applied
+- Added explicit binary checks and command output capture in the verification script.
+- Standardized setup with a versioned `environment.yml` file.
+
+## Final Outcome
+Unit 4.6 now provides an executable environment verification baseline. This reduces setup drift and enables reliable progression into Jupyter-interface and notebook-centric units.

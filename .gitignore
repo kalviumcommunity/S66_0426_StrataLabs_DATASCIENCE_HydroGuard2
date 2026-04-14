@@ -1,0 +1,14 @@
+video_script.md
+issues.md
+DUMMY-README.md
+git_log.md
+
+__pycache__/
+.ipynb_checkpoints/
+.pytest_cache/
+
+.venv/
+venv/
+env/
+
+.DS_Store

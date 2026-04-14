@@ -71,3 +71,17 @@ Recall on flood-risk years is the headline performance metric.
 Python · Pandas · NumPy · Matplotlib · Seaborn · Scikit-learn · Jupyter Notebook
 
 ---
+
+## Local Environment Setup
+
+Use Conda to create the project environment and verify tools before starting notebooks:
+
+```bash
+conda env create -f environment.yml
+conda activate hydroguard
+python scripts/verify_python_tools.py
+```
+
+This keeps local development consistent across Python scripts and Jupyter workflows used in upcoming learning units.
+
+---

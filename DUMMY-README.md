@@ -21,3 +21,28 @@ Generated At: 2026-04-14 15:06 IST
 
 ## Output/Result
 Unit 4.5 now has a documented setup baseline that prepares the project for Unit 4.6 onward (tool verification, Jupyter workflow, and data analysis implementation).
+
+---
+
+# Learning Unit 4.6 - Unit Summary
+
+Date: 2026-04-14
+Time: 15:18 IST
+Generated At: 2026-04-14 15:18 IST
+
+## What It Covers
+- Verifying Python, Conda, and Jupyter setup for notebook-driven workflows.
+- Standardizing dependencies for team and device consistency.
+
+## Features Implemented
+- Added `.gitignore` entries for requested markdown artifacts.
+- Added `environment.yml` with the project's data science stack.
+- Added `scripts/verify_python_tools.py` for executable setup checks.
+- Added setup commands to `README.md`.
+
+## Key Learnings
+- Environment reproducibility is a product feature, not just a setup step.
+- Verification scripts reduce onboarding friction before model and notebook work.
+
+## Output/Result
+The project now has a repeatable Python tooling baseline that supports the upcoming Jupyter and core Python learning units.
