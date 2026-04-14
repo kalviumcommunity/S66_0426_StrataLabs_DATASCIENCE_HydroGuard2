@@ -61,3 +61,33 @@ Different local PATH configurations can hide Conda/Jupyter command issues.
 
 ### Solution
 Created `scripts/verify_python_tools.py` with command discovery and version checks.
+
+---
+
+## Learning Unit 4.7 - Launching Jupyter Notebook and Understanding the Home Interface
+
+### Issue Description
+Jupyter can start in unpredictable directories, causing file organization drift.
+
+### When It Occurred
+While preparing the first notebook-based workflow.
+
+### Root Cause
+Default Jupyter startup path depends on user shell location.
+
+### Solution
+Added `scripts/launch_jupyter.py` to consistently launch Jupyter in `notebooks/`.
+
+---
+
+### Issue Description
+New contributors may not know what to verify on the home interface before creating notebooks.
+
+### When It Occurred
+During unit documentation and onboarding planning.
+
+### Root Cause
+Interface behavior is often assumed and left undocumented.
+
+### Solution
+Added `notebooks/04_07_jupyter_home_interface.ipynb` with a checklist and workspace verification cell.
