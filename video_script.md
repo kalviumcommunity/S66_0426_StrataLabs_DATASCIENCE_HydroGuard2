@@ -64,3 +64,35 @@ This unit validates the local tooling required for all data analysis workflows. 
 
 ## Final Outcome
 Unit 4.6 now provides an executable environment verification baseline. This reduces setup drift and enables reliable progression into Jupyter-interface and notebook-centric units.
+
+---
+
+# Learning Unit 4.7 - Launching Jupyter Notebook and Understanding the Home Interface
+
+Date: 2026-04-14
+Time: 15:21 IST
+Generated At: 2026-04-14 15:21 IST
+
+## Introduction
+This unit moves from environment verification into notebook execution flow. The objective is to launch Jupyter in a consistent workspace and document how the home interface supports structured data science work.
+
+## What Was Built
+- Added a launch utility at `scripts/launch_jupyter.py` to start Jupyter in the project's `notebooks/` directory.
+- Added notebook `notebooks/04_07_jupyter_home_interface.ipynb` with a practical home-interface checklist.
+- Updated README with a one-command launch step for repeatable usage.
+
+## Step-by-Step Explanation
+1. Created a Python launcher script to standardize where Jupyter opens.
+2. Added an onboarding notebook that explains key interface controls and expected workflow behavior.
+3. Included a code cell to verify runtime working directory from inside the notebook.
+4. Linked the launch command in README so setup and execution stay connected.
+
+## Challenges Faced
+- Jupyter sessions often start in inconsistent directories across machines.
+
+## Solutions Applied
+- Forced notebook startup path through script-managed `--notebook-dir` setting.
+- Added an in-notebook directory check to make path verification explicit.
+
+## Final Outcome
+Unit 4.7 now ensures Jupyter launches predictably and that contributors understand the home interface before writing analysis notebooks.

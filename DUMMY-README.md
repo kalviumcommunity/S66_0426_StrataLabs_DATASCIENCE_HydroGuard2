@@ -46,3 +46,27 @@ Generated At: 2026-04-14 15:18 IST
 
 ## Output/Result
 The project now has a repeatable Python tooling baseline that supports the upcoming Jupyter and core Python learning units.
+
+---
+
+# Learning Unit 4.7 - Unit Summary
+
+Date: 2026-04-14
+Time: 15:21 IST
+Generated At: 2026-04-14 15:21 IST
+
+## What It Covers
+- Launching Jupyter Notebook from a controlled project workspace.
+- Understanding the Jupyter home interface before analysis work.
+
+## Features Implemented
+- Added `scripts/launch_jupyter.py` for standardized notebook startup path.
+- Added `notebooks/04_07_jupyter_home_interface.ipynb` with interface checklist.
+- Updated README to include launch instructions.
+
+## Key Learnings
+- Controlled startup paths prevent notebook sprawl and improve collaboration.
+- Home-interface onboarding reduces workflow mistakes in early units.
+
+## Output/Result
+The project now includes an operational Jupyter entrypoint and a guided home-interface notebook for consistent notebook-based development.

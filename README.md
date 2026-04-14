@@ -84,4 +84,10 @@ python scripts/verify_python_tools.py
 
 This keeps local development consistent across Python scripts and Jupyter workflows used in upcoming learning units.
 
+To launch Jupyter directly in the project notebook workspace:
+
+```bash
+python scripts/launch_jupyter.py
+```
+
 ---

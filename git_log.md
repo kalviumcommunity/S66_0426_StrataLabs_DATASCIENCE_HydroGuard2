@@ -21,3 +21,15 @@
   - Added `.gitignore` entries for unit markdown artifacts as requested
   - Added `environment.yml` to standardize local data science dependencies
   - Added `scripts/verify_python_tools.py` and README setup instructions for executable environment checks
+
+### Learning Unit: 4.7 Launching Jupyter Notebook and Understanding the Home Interface
+
+- Branch Name: jupyter-home-interface
+
+- Commits:
+  - feat(notebook): add guided jupyter launch workflow and home interface notebook
+
+- Merge Description:
+  - Added `scripts/launch_jupyter.py` to launch notebook server in the project workspace
+  - Added `notebooks/04_07_jupyter_home_interface.ipynb` with a practical interface checklist
+  - Updated README with a direct command to start Jupyter for project work
