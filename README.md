@@ -209,4 +209,10 @@ To run pandas DataFrame creation demo:
 python scripts/pandas_dataframe_creation_demo.py
 ```
 
+To run pandas CSV loading demo:
+
+```bash
+python scripts/pandas_csv_loading_demo.py
+```
+
 ---

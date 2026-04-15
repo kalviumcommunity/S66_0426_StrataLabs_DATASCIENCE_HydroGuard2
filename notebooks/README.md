@@ -22,5 +22,6 @@
 - `04_26_numpy_broadcasting.ipynb`: Broadcasting row-wise offsets and scaling factors.
 - `04_27_pandas_series_creation.ipynb`: Building pandas Series from list and array inputs.
 - `04_28_pandas_dataframe_creation.ipynb`: Creating DataFrames from dictionaries and CSV files.
+- `04_29_pandas_csv_loading.ipynb`: Loading CSV files into pandas with schema awareness.
 
 These notebooks form the onboarding path before dataset cleaning and model development work.
