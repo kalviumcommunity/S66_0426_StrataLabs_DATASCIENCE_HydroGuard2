@@ -11,5 +11,6 @@
 - `04_15_lists_tuples_dictionaries.ipynb`: Data structure patterns for rainfall summaries.
 - `04_16_conditional_data_logic.ipynb`: If/elif/else rules for flood-risk categorization.
 - `04_17_iterative_data_processing.ipynb`: for/while loop examples for repeated rainfall operations.
+- `04_18_define_and_call_functions.ipynb`: Function-based reusable rainfall computations.
 
 These notebooks form the onboarding path before dataset cleaning and model development work.
