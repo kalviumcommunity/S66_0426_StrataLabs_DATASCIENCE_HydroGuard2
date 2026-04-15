@@ -107,4 +107,10 @@ S66_0426_StrataLabs_DATASCIENCE_HydroGuard2/
 
 This structure separates immutable source data, transformed data, reusable code, and generated artifacts so the full pipeline remains auditable.
 
+To move the sample rainfall file from raw stage to processed stage:
+
+```bash
+python scripts/stage_rainfall_data.py
+```
+
 ---

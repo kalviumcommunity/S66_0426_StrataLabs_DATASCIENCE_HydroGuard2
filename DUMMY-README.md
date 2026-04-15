@@ -166,3 +166,28 @@ Generated At: 2026-04-15 10:24 IST
 
 ## Output/Result
 The repository now has a documented data science folder architecture ready for raw/processed artifact workflows.
+
+---
+
+# Learning Unit 4.12 - Unit Summary
+
+Date: 2026-04-15
+Time: 10:32 IST
+Generated At: 2026-04-15 10:32 IST
+
+## What It Covers
+- Separating raw, processed, and output artifact stages in a practical workflow.
+- Converting incoming source data into analysis-ready processed data.
+
+## Features Implemented
+- Added `data/raw/rainfall_sample_raw.csv`.
+- Added `scripts/stage_rainfall_data.py` and generated `data/processed/rainfall_sample_processed.csv`.
+- Added `outputs/reports/`, `outputs/figures/`, and `outputs/models/` with guide docs.
+- Added `notebooks/04_12_data_stages_and_artifacts.ipynb`.
+
+## Key Learnings
+- Data-stage discipline improves traceability from intake to model-ready inputs.
+- Dependency-light scripts reduce setup friction across machines.
+
+## Output/Result
+The project now includes a runnable raw-to-processed staging step and a standardized output artifact layout.

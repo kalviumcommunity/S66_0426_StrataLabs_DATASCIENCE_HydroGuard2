@@ -222,3 +222,37 @@ This unit establishes a production-friendly project layout so HydroGuard work st
 
 ## Final Outcome
 Unit 4.11 now provides a clean, reusable workspace structure that directly supports upcoming data organization and script execution units.
+
+---
+
+# Learning Unit 4.12 - Organizing Raw Data, Processed Data, and Output Artifacts
+
+Date: 2026-04-15
+Time: 10:32 IST
+Generated At: 2026-04-15 10:32 IST
+
+## Introduction
+This unit operationalizes the folder structure by implementing clear rules and scripts for moving data across raw, processed, and output stages.
+
+## What Was Built
+- Added raw sample dataset `data/raw/rainfall_sample_raw.csv`.
+- Added staging script `scripts/stage_rainfall_data.py` to generate `data/processed/rainfall_sample_processed.csv`.
+- Added output artifact subfolders and usage guide in `outputs/README.md`.
+- Added notebook `notebooks/04_12_data_stages_and_artifacts.ipynb` for stage documentation.
+
+## Step-by-Step Explanation
+1. Introduced a realistic raw rainfall file to represent immutable source intake.
+2. Built a Python staging script that normalizes columns and computes monsoon totals.
+3. Generated processed output file in `data/processed` through script execution.
+4. Created dedicated output folders for reports, figures, and models.
+5. Updated README and notebook index with stage-management workflow.
+
+## Challenges Faced
+- Runtime environment lacked pandas, which would block script execution on a base Python setup.
+
+## Solutions Applied
+- Rewrote staging logic using Python's standard `csv` module to avoid dependency blockers.
+- Kept artifact boundaries explicit through folder-level documentation.
+
+## Final Outcome
+Unit 4.12 now enforces practical data-stage separation with a runnable staging workflow that prepares clean inputs for analysis scripts.

@@ -81,3 +81,15 @@
   - Added staged project directories for raw data, processed data, outputs, and source code
   - Documented folder intent in `data/README.md`, `README.md`, and onboarding notebook `04_11`
   - Established structure baseline for upcoming data artifact and script units
+
+### Learning Unit: 4.12 Organizing Raw Data, Processed Data, and Output Artifacts
+
+- Branch Name: data-artifact-organization
+
+- Commits:
+  - feat(data): add raw-to-processed staging workflow and artifact folders
+
+- Merge Description:
+  - Added sample raw rainfall dataset and a script to produce processed staged output
+  - Added dedicated output artifact folders (`reports`, `figures`, `models`) with usage guidance
+  - Updated README and onboarding notebook documentation for stage-separation workflow
