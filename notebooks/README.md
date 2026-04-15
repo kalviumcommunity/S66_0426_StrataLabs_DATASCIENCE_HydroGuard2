@@ -16,5 +16,6 @@
 - `04_20_readable_names_pep8.ipynb`: Readable variable naming and PEP 8 style basics.
 - `04_21_code_structure_reuse.ipynb`: Structuring Python code into reusable pipeline functions.
 - `04_22_numpy_arrays_from_lists.ipynb`: Creating NumPy arrays from list-based rainfall values.
+- `04_23_array_shape_dimensions_index.ipynb`: Inspecting array shape, dimensionality, and index positions.
 
 These notebooks form the onboarding path before dataset cleaning and model development work.

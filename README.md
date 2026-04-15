@@ -173,4 +173,10 @@ To run NumPy array creation demo from Python lists:
 python scripts/numpy_array_creation_demo.py
 ```
 
+To run NumPy shape and index inspection demo:
+
+```bash
+python scripts/numpy_shape_index_demo.py
+```
+
 ---
