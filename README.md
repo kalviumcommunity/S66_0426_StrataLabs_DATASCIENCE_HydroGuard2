@@ -185,4 +185,10 @@ To run basic NumPy mathematical operations demo:
 python scripts/numpy_math_operations_demo.py
 ```
 
+To run vectorized NumPy anomaly calculations:
+
+```bash
+python scripts/numpy_vectorization_demo.py
+```
+
 ---

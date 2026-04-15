@@ -18,5 +18,6 @@
 - `04_22_numpy_arrays_from_lists.ipynb`: Creating NumPy arrays from list-based rainfall values.
 - `04_23_array_shape_dimensions_index.ipynb`: Inspecting array shape, dimensionality, and index positions.
 - `04_24_numpy_math_operations.ipynb`: Basic mathematical operations on NumPy arrays.
+- `04_25_numpy_vectorized_operations.ipynb`: Vectorized transformations replacing explicit Python loops.
 
 These notebooks form the onboarding path before dataset cleaning and model development work.
