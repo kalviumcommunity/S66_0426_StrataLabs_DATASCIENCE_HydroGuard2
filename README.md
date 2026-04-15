@@ -131,4 +131,10 @@ To run data-structure demo for district rainfall summaries:
 python scripts/data_structures_demo.py
 ```
 
+To run conditional risk classification from monsoon totals:
+
+```bash
+python scripts/conditional_risk_demo.py
+```
+
 ---

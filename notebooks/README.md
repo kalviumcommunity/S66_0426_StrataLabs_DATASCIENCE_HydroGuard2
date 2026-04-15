@@ -9,5 +9,6 @@
 - `04_13_first_python_analysis_script.ipynb`: First script-based analysis and report generation flow.
 - `04_14_numeric_string_types.ipynb`: Numeric and string typing for rainfall ingestion fields.
 - `04_15_lists_tuples_dictionaries.ipynb`: Data structure patterns for rainfall summaries.
+- `04_16_conditional_data_logic.ipynb`: If/elif/else rules for flood-risk categorization.
 
 These notebooks form the onboarding path before dataset cleaning and model development work.
