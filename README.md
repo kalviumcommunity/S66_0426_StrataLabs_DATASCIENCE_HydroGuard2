@@ -137,4 +137,10 @@ To run conditional risk classification from monsoon totals:
 python scripts/conditional_risk_demo.py
 ```
 
+To run loop-based iterative rainfall processing:
+
+```bash
+python scripts/iterative_processing_demo.py
+```
+
 ---
