@@ -161,4 +161,10 @@ To run readable naming and PEP 8 style demo:
 python scripts/readable_style_demo.py
 ```
 
+To run structured reusable pipeline demo:
+
+```bash
+python scripts/structured_pipeline_demo.py
+```
+
 ---
