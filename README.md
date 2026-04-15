@@ -203,4 +203,10 @@ To run pandas Series creation demo:
 python scripts/pandas_series_creation_demo.py
 ```
 
+To run pandas DataFrame creation demo:
+
+```bash
+python scripts/pandas_dataframe_creation_demo.py
+```
+
 ---
