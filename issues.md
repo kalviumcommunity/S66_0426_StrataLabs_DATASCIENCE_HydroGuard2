@@ -241,3 +241,33 @@ Pandas was not installed in the active Python runtime.
 
 ### Solution
 Refactored script to use built-in `csv` module so the workflow runs on plain Python.
+
+---
+
+## Learning Unit 4.13 - Creating and Running a First Python Script for Data Analysis
+
+### Issue Description
+The project needed a first script-based analysis path outside notebooks.
+
+### When It Occurred
+At the transition from staged datasets to executable analysis deliverables.
+
+### Root Cause
+No reusable terminal-run analysis script existed in the repository.
+
+### Solution
+Added `scripts/first_data_analysis.py` to compute summary metrics and generate markdown report output.
+
+---
+
+### Issue Description
+Report output destination needed to align with artifact separation rules.
+
+### When It Occurred
+During implementation of script-generated analysis deliverables.
+
+### Root Cause
+Without explicit destination, reports could end up mixed with data files.
+
+### Solution
+Configured script to save results to `outputs/reports/first_analysis_summary.md`.

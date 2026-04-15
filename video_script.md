@@ -256,3 +256,37 @@ This unit operationalizes the folder structure by implementing clear rules and s
 
 ## Final Outcome
 Unit 4.12 now enforces practical data-stage separation with a runnable staging workflow that prepares clean inputs for analysis scripts.
+
+---
+
+# Learning Unit 4.13 - Creating and Running a First Python Script for Data Analysis
+
+Date: 2026-04-15
+Time: 10:36 IST
+Generated At: 2026-04-15 10:36 IST
+
+## Introduction
+This unit transitions from setup and staging into executable analysis by introducing the first standalone Python script in the HydroGuard pipeline.
+
+## What Was Built
+- Added `scripts/first_data_analysis.py` to analyze processed rainfall data.
+- Generated report `outputs/reports/first_analysis_summary.md` from script output.
+- Added notebook guide `notebooks/04_13_first_python_analysis_script.ipynb`.
+- Updated README and notebook index with run instructions.
+
+## Step-by-Step Explanation
+1. Loaded processed data using a lightweight CSV reader.
+2. Computed records analyzed, average monsoon total, and highest monsoon case.
+3. Calculated district-wise average totals for quick comparison.
+4. Wrote a markdown summary report to the outputs stage.
+5. Validated script execution from terminal.
+
+## Challenges Faced
+- The first analysis script needed to remain dependency-light for consistent execution across machines.
+
+## Solutions Applied
+- Implemented analysis with built-in Python modules and file-based report generation.
+- Kept script paths relative to repository root for predictable runtime behavior.
+
+## Final Outcome
+Unit 4.13 now delivers the first reproducible script-based analysis artifact, establishing the foundation for more advanced programmatic data workflows.

@@ -6,5 +6,6 @@
 - `04_10_markdown_patterns.ipynb`: Markdown headings, lists, and code block examples.
 - `04_11_project_folder_structure.ipynb`: Baseline data science folder architecture for HydroGuard.
 - `04_12_data_stages_and_artifacts.ipynb`: Rules for raw, processed, and output artifact separation.
+- `04_13_first_python_analysis_script.ipynb`: First script-based analysis and report generation flow.
 
 These notebooks form the onboarding path before dataset cleaning and model development work.
