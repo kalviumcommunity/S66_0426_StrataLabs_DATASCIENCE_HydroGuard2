@@ -233,4 +233,10 @@ To run pandas indexing and slicing demo:
 python scripts/pandas_indexing_demo.py
 ```
 
+To run missing-value detection demo:
+
+```bash
+python scripts/pandas_missing_detection_demo.py
+```
+
 ---

@@ -26,5 +26,6 @@
 - `04_30_dataframe_inspection.ipynb`: Inspecting DataFrames using head, info, and describe.
 - `04_31_dataframe_shape_dtypes.ipynb`: Verifying DataFrame shape and column dtypes.
 - `04_32_pandas_indexing_slicing.ipynb`: Row and column selection with loc/iloc patterns.
+- `04_33_missing_value_detection.ipynb`: Detecting missing values with isna-based checks.
 
 These notebooks form the onboarding path before dataset cleaning and model development work.
