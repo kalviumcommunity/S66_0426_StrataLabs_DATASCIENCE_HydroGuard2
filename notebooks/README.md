@@ -20,5 +20,6 @@
 - `04_24_numpy_math_operations.ipynb`: Basic mathematical operations on NumPy arrays.
 - `04_25_numpy_vectorized_operations.ipynb`: Vectorized transformations replacing explicit Python loops.
 - `04_26_numpy_broadcasting.ipynb`: Broadcasting row-wise offsets and scaling factors.
+- `04_27_pandas_series_creation.ipynb`: Building pandas Series from list and array inputs.
 
 These notebooks form the onboarding path before dataset cleaning and model development work.
