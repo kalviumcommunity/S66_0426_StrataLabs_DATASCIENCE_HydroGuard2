@@ -39,3 +39,7 @@
 ### Learning Unit: 4.14 Understanding Python Numeric and String Data Types
 - Branch Name: python-numeric-string-types
 - PR: https://github.com/kalviumcommunity/S66_0426_StrataLabs_DATASCIENCE_HydroGuard2/pull/51
+
+### Learning Unit: 4.15 Working with Python Lists, Tuples, and Dictionaries
+- Branch Name: python-data-structures
+- PR: https://github.com/kalviumcommunity/S66_0426_StrataLabs_DATASCIENCE_HydroGuard2/pull/52
