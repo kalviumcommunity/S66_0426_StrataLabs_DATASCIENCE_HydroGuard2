@@ -143,4 +143,10 @@ To run loop-based iterative rainfall processing:
 python scripts/iterative_processing_demo.py
 ```
 
+To run function definition/call demo for rainfall summaries:
+
+```bash
+python scripts/functions_demo.py
+```
+
 ---
