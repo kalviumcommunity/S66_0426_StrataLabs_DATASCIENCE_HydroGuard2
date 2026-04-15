@@ -28,5 +28,6 @@
 - `04_32_pandas_indexing_slicing.ipynb`: Row and column selection with loc/iloc patterns.
 - `04_33_missing_value_detection.ipynb`: Detecting missing values with isna-based checks.
 - `04_34_missing_value_handling.ipynb`: Handling missing values using drop and fill methods.
+- `04_35_duplicate_detection_removal.ipynb`: Detecting and removing duplicate rows.
 
 These notebooks form the onboarding path before dataset cleaning and model development work.

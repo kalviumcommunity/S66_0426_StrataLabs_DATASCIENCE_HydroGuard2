@@ -245,4 +245,10 @@ To run missing-value handling demo:
 python scripts/pandas_missing_handling_demo.py
 ```
 
+To run duplicate detection and removal demo:
+
+```bash
+python scripts/pandas_duplicate_handling_demo.py
+```
+
 ---
