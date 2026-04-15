@@ -221,4 +221,10 @@ To run DataFrame inspection demo:
 python scripts/pandas_inspection_demo.py
 ```
 
+To run DataFrame shape and dtype inspection demo:
+
+```bash
+python scripts/pandas_shape_dtypes_demo.py
+```
+
 ---
