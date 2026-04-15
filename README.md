@@ -91,3 +91,20 @@ python scripts/launch_jupyter.py
 ```
 
 ---
+
+## Project Structure
+
+```text
+S66_0426_StrataLabs_DATASCIENCE_HydroGuard2/
+|- data/
+|  |- raw/
+|  |- processed/
+|- notebooks/
+|- outputs/
+|- scripts/
+|- src/
+```
+
+This structure separates immutable source data, transformed data, reusable code, and generated artifacts so the full pipeline remains auditable.
+
+---

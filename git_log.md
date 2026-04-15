@@ -69,3 +69,15 @@
   - Added `notebooks/04_10_markdown_patterns.ipynb` with headings, lists, and fenced code blocks
   - Linked markdown examples to executable code for practical usage
   - Updated notebook index to keep onboarding progression clear
+
+### Learning Unit: 4.11 Creating a Project Folder Structure for Data Science Work
+
+- Branch Name: project-folder-structure
+
+- Commits:
+  - feat(structure): add baseline data science folder architecture
+
+- Merge Description:
+  - Added staged project directories for raw data, processed data, outputs, and source code
+  - Documented folder intent in `data/README.md`, `README.md`, and onboarding notebook `04_11`
+  - Established structure baseline for upcoming data artifact and script units

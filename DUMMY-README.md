@@ -141,3 +141,28 @@ Generated At: 2026-04-14 15:26 IST
 
 ## Output/Result
 The project now includes a markdown style reference notebook ready for future analysis and model notebooks.
+
+---
+
+# Learning Unit 4.11 - Unit Summary
+
+Date: 2026-04-15
+Time: 10:24 IST
+Generated At: 2026-04-15 10:24 IST
+
+## What It Covers
+- Creating a scalable folder structure for data science projects.
+- Defining clear boundaries for source data, processed data, code, notebooks, and outputs.
+
+## Features Implemented
+- Added `data/raw/`, `data/processed/`, `outputs/`, and `src/` directories.
+- Added `data/README.md` and `.gitkeep` placeholders.
+- Added `notebooks/04_11_project_folder_structure.ipynb`.
+- Added project structure section to `README.md`.
+
+## Key Learnings
+- Early folder conventions prevent pipeline drift as complexity increases.
+- Explicit stage separation improves reproducibility and collaboration.
+
+## Output/Result
+The repository now has a documented data science folder architecture ready for raw/processed artifact workflows.
