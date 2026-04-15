@@ -197,4 +197,10 @@ To run NumPy broadcasting demo:
 python scripts/numpy_broadcasting_demo.py
 ```
 
+To run pandas Series creation demo:
+
+```bash
+python scripts/pandas_series_creation_demo.py
+```
+
 ---
