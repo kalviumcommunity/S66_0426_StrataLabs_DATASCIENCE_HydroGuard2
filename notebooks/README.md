@@ -7,5 +7,6 @@
 - `04_11_project_folder_structure.ipynb`: Baseline data science folder architecture for HydroGuard.
 - `04_12_data_stages_and_artifacts.ipynb`: Rules for raw, processed, and output artifact separation.
 - `04_13_first_python_analysis_script.ipynb`: First script-based analysis and report generation flow.
+- `04_14_numeric_string_types.ipynb`: Numeric and string typing for rainfall ingestion fields.
 
 These notebooks form the onboarding path before dataset cleaning and model development work.

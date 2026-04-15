@@ -119,4 +119,10 @@ To run the first script-based rainfall analysis and generate a report:
 python scripts/first_data_analysis.py
 ```
 
+To run numeric/string parsing demo for rainfall inputs:
+
+```bash
+python scripts/numeric_string_demo.py
+```
+
 ---
