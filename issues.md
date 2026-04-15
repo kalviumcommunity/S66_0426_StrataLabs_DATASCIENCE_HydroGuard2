@@ -181,3 +181,33 @@ Examples often stop at documentation and skip linked runnable code.
 
 ### Solution
 Added matching executable code cell to mirror the markdown code block example.
+
+---
+
+## Learning Unit 4.11 - Creating a Project Folder Structure for Data Science Work
+
+### Issue Description
+Data science artifacts risk mixing together when directory boundaries are undefined.
+
+### When It Occurred
+At the start of building non-notebook workflow components.
+
+### Root Cause
+Repository did not yet enforce a staged data and output structure.
+
+### Solution
+Created `data/raw`, `data/processed`, `outputs`, and `src` folders with usage guidance.
+
+---
+
+### Issue Description
+Folder conventions can be missed by new contributors.
+
+### When It Occurred
+While defining unit onboarding deliverables.
+
+### Root Cause
+Structure was not documented in central onboarding files.
+
+### Solution
+Added `README.md` structure tree and `notebooks/04_11_project_folder_structure.ipynb`.

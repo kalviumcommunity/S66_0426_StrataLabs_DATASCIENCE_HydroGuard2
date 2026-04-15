@@ -189,3 +189,36 @@ This unit strengthens notebook documentation quality by standardizing markdown u
 
 ## Final Outcome
 Unit 4.10 now provides a clear notebook writing standard that improves readability, handoff quality, and long-term maintainability of project notebooks.
+
+---
+
+# Learning Unit 4.11 - Creating a Project Folder Structure for Data Science Work
+
+Date: 2026-04-15
+Time: 10:24 IST
+Generated At: 2026-04-15 10:24 IST
+
+## Introduction
+This unit establishes a production-friendly project layout so HydroGuard work stays organized as data, notebooks, scripts, and outputs grow.
+
+## What Was Built
+- Added core directories for `data/raw`, `data/processed`, `outputs`, and `src`.
+- Added `data/README.md` to document storage rules for raw vs processed files.
+- Added `notebooks/04_11_project_folder_structure.ipynb` to teach and verify folder conventions.
+- Added a structure section in `README.md`.
+
+## Step-by-Step Explanation
+1. Created clear data-stage folders to separate source and transformed datasets.
+2. Added placeholder `.gitkeep` files so directory intent remains versioned.
+3. Added source package root `src/__init__.py` for reusable code organization.
+4. Added notebook walkthrough and README structure tree for onboarding.
+
+## Challenges Faced
+- Early-stage repositories can become inconsistent when no folder convention is set upfront.
+
+## Solutions Applied
+- Introduced a simple but scalable directory standard tied to the end-to-end DS lifecycle.
+- Documented folder purpose in both markdown and notebook formats.
+
+## Final Outcome
+Unit 4.11 now provides a clean, reusable workspace structure that directly supports upcoming data organization and script execution units.
