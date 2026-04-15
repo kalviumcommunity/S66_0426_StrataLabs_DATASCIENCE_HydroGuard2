@@ -239,4 +239,10 @@ To run missing-value detection demo:
 python scripts/pandas_missing_detection_demo.py
 ```
 
+To run missing-value handling demo:
+
+```bash
+python scripts/pandas_missing_handling_demo.py
+```
+
 ---
