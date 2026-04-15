@@ -17,5 +17,6 @@
 - `04_21_code_structure_reuse.ipynb`: Structuring Python code into reusable pipeline functions.
 - `04_22_numpy_arrays_from_lists.ipynb`: Creating NumPy arrays from list-based rainfall values.
 - `04_23_array_shape_dimensions_index.ipynb`: Inspecting array shape, dimensionality, and index positions.
+- `04_24_numpy_math_operations.ipynb`: Basic mathematical operations on NumPy arrays.
 
 These notebooks form the onboarding path before dataset cleaning and model development work.

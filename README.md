@@ -179,4 +179,10 @@ To run NumPy shape and index inspection demo:
 python scripts/numpy_shape_index_demo.py
 ```
 
+To run basic NumPy mathematical operations demo:
+
+```bash
+python scripts/numpy_math_operations_demo.py
+```
+
 ---
