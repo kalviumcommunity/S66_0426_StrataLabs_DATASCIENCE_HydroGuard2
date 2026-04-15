@@ -14,5 +14,6 @@
 - `04_18_define_and_call_functions.ipynb`: Function-based reusable rainfall computations.
 - `04_19_function_inputs_outputs.ipynb`: Passing function inputs and returning anomaly results.
 - `04_20_readable_names_pep8.ipynb`: Readable variable naming and PEP 8 style basics.
+- `04_21_code_structure_reuse.ipynb`: Structuring Python code into reusable pipeline functions.
 
 These notebooks form the onboarding path before dataset cleaning and model development work.
