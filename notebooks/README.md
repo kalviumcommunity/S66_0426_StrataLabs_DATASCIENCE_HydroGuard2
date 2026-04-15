@@ -21,5 +21,6 @@
 - `04_25_numpy_vectorized_operations.ipynb`: Vectorized transformations replacing explicit Python loops.
 - `04_26_numpy_broadcasting.ipynb`: Broadcasting row-wise offsets and scaling factors.
 - `04_27_pandas_series_creation.ipynb`: Building pandas Series from list and array inputs.
+- `04_28_pandas_dataframe_creation.ipynb`: Creating DataFrames from dictionaries and CSV files.
 
 These notebooks form the onboarding path before dataset cleaning and model development work.
