@@ -211,3 +211,33 @@ Structure was not documented in central onboarding files.
 
 ### Solution
 Added `README.md` structure tree and `notebooks/04_11_project_folder_structure.ipynb`.
+
+---
+
+## Learning Unit 4.12 - Organizing Raw Data, Processed Data, and Output Artifacts
+
+### Issue Description
+Data stage transitions were defined conceptually but not yet executable.
+
+### When It Occurred
+While implementing artifact separation rules in repository structure.
+
+### Root Cause
+No script existed to move data from raw intake to processed analysis-ready format.
+
+### Solution
+Created `scripts/stage_rainfall_data.py` and generated `data/processed/rainfall_sample_processed.csv`.
+
+---
+
+### Issue Description
+Initial script implementation failed due to missing optional dependency.
+
+### When It Occurred
+During first script run for staged data generation.
+
+### Root Cause
+Pandas was not installed in the active Python runtime.
+
+### Solution
+Refactored script to use built-in `csv` module so the workflow runs on plain Python.
