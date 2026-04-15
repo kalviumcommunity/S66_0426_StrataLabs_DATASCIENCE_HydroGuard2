@@ -125,4 +125,10 @@ To run numeric/string parsing demo for rainfall inputs:
 python scripts/numeric_string_demo.py
 ```
 
+To run data-structure demo for district rainfall summaries:
+
+```bash
+python scripts/data_structures_demo.py
+```
+
 ---
