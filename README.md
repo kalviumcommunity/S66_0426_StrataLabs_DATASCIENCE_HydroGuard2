@@ -155,4 +155,10 @@ To run function input/output anomaly demo:
 python scripts/function_io_demo.py
 ```
 
+To run readable naming and PEP 8 style demo:
+
+```bash
+python scripts/readable_style_demo.py
+```
+
 ---
