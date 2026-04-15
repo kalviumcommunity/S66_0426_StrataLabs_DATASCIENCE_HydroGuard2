@@ -167,4 +167,10 @@ To run structured reusable pipeline demo:
 python scripts/structured_pipeline_demo.py
 ```
 
+To run NumPy array creation demo from Python lists:
+
+```bash
+python scripts/numpy_array_creation_demo.py
+```
+
 ---
