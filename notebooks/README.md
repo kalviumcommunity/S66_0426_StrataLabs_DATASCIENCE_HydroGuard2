@@ -19,5 +19,6 @@
 - `04_23_array_shape_dimensions_index.ipynb`: Inspecting array shape, dimensionality, and index positions.
 - `04_24_numpy_math_operations.ipynb`: Basic mathematical operations on NumPy arrays.
 - `04_25_numpy_vectorized_operations.ipynb`: Vectorized transformations replacing explicit Python loops.
+- `04_26_numpy_broadcasting.ipynb`: Broadcasting row-wise offsets and scaling factors.
 
 These notebooks form the onboarding path before dataset cleaning and model development work.

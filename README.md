@@ -191,4 +191,10 @@ To run vectorized NumPy anomaly calculations:
 python scripts/numpy_vectorization_demo.py
 ```
 
+To run NumPy broadcasting demo:
+
+```bash
+python scripts/numpy_broadcasting_demo.py
+```
+
 ---
