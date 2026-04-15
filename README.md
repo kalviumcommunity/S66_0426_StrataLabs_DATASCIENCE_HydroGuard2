@@ -113,4 +113,10 @@ To move the sample rainfall file from raw stage to processed stage:
 python scripts/stage_rainfall_data.py
 ```
 
+To run the first script-based rainfall analysis and generate a report:
+
+```bash
+python scripts/first_data_analysis.py
+```
+
 ---

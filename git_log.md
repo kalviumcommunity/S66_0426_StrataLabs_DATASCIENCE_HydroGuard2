@@ -93,3 +93,15 @@
   - Added sample raw rainfall dataset and a script to produce processed staged output
   - Added dedicated output artifact folders (`reports`, `figures`, `models`) with usage guidance
   - Updated README and onboarding notebook documentation for stage-separation workflow
+
+### Learning Unit: 4.13 Creating and Running a First Python Script for Data Analysis
+
+- Branch Name: first-analysis-script
+
+- Commits:
+  - feat(script): add first executable rainfall analysis workflow
+
+- Merge Description:
+  - Added `scripts/first_data_analysis.py` to analyze processed rainfall and generate report output
+  - Generated first report artifact at `outputs/reports/first_analysis_summary.md`
+  - Added unit notebook documentation and run instructions in README

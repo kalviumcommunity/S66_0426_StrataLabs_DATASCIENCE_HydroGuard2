@@ -191,3 +191,27 @@ Generated At: 2026-04-15 10:32 IST
 
 ## Output/Result
 The project now includes a runnable raw-to-processed staging step and a standardized output artifact layout.
+
+---
+
+# Learning Unit 4.13 - Unit Summary
+
+Date: 2026-04-15
+Time: 10:36 IST
+Generated At: 2026-04-15 10:36 IST
+
+## What It Covers
+- Writing and running a standalone Python script for data analysis.
+- Producing reusable analysis outputs outside notebook execution.
+
+## Features Implemented
+- Added `scripts/first_data_analysis.py`.
+- Generated `outputs/reports/first_analysis_summary.md` from processed rainfall data.
+- Added `notebooks/04_13_first_python_analysis_script.ipynb` and updated docs.
+
+## Key Learnings
+- Script-driven analysis improves repeatability and automation readiness.
+- Output routing to dedicated artifact folders keeps repository structure clean.
+
+## Output/Result
+The project now has its first terminal-executable analysis script and report artifact pipeline.
