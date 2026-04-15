@@ -149,4 +149,10 @@ To run function definition/call demo for rainfall summaries:
 python scripts/functions_demo.py
 ```
 
+To run function input/output anomaly demo:
+
+```bash
+python scripts/function_io_demo.py
+```
+
 ---
