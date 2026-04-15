@@ -227,4 +227,10 @@ To run DataFrame shape and dtype inspection demo:
 python scripts/pandas_shape_dtypes_demo.py
 ```
 
+To run pandas indexing and slicing demo:
+
+```bash
+python scripts/pandas_indexing_demo.py
+```
+
 ---
