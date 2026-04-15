@@ -215,4 +215,10 @@ To run pandas CSV loading demo:
 python scripts/pandas_csv_loading_demo.py
 ```
 
+To run DataFrame inspection demo:
+
+```bash
+python scripts/pandas_inspection_demo.py
+```
+
 ---
