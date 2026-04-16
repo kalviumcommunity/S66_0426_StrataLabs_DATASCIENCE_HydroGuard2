@@ -257,4 +257,10 @@ To run column and data-format standardization demo:
 python scripts/pandas_standardization_demo.py
 ```
 
+To run single-column summary statistics demo:
+
+```bash
+python scripts/pandas_summary_stats_demo.py
+```
+
 ---
