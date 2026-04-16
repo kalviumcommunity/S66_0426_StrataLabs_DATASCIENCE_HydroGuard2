@@ -269,4 +269,10 @@ To run multi-column distribution comparison demo:
 python scripts/pandas_distribution_comparison_demo.py
 ```
 
+To run histogram visualization demo:
+
+```bash
+python scripts/pandas_histogram_demo.py
+```
+
 ---

@@ -32,5 +32,6 @@
 - `04_36_column_standardization.ipynb`: Standardizing column labels and text data formats.
 - `04_37_summary_statistics.ipynb`: Computing summary stats for individual columns.
 - `04_38_distribution_comparison.ipynb`: Comparing distribution metrics across multiple columns.
+- `04_39_histogram_visualization.ipynb`: Histogram-based numeric distribution visualization.
 
 These notebooks form the onboarding path before dataset cleaning and model development work.
