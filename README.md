@@ -263,4 +263,10 @@ To run single-column summary statistics demo:
 python scripts/pandas_summary_stats_demo.py
 ```
 
+To run multi-column distribution comparison demo:
+
+```bash
+python scripts/pandas_distribution_comparison_demo.py
+```
+
 ---
