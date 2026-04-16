@@ -29,5 +29,6 @@
 - `04_33_missing_value_detection.ipynb`: Detecting missing values with isna-based checks.
 - `04_34_missing_value_handling.ipynb`: Handling missing values using drop and fill methods.
 - `04_35_duplicate_detection_removal.ipynb`: Detecting and removing duplicate rows.
+- `04_36_column_standardization.ipynb`: Standardizing column labels and text data formats.
 
 These notebooks form the onboarding path before dataset cleaning and model development work.

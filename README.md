@@ -251,4 +251,10 @@ To run duplicate detection and removal demo:
 python scripts/pandas_duplicate_handling_demo.py
 ```
 
+To run column and data-format standardization demo:
+
+```bash
+python scripts/pandas_standardization_demo.py
+```
+
 ---
