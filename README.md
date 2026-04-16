@@ -275,4 +275,10 @@ To run histogram visualization demo:
 python scripts/pandas_histogram_demo.py
 ```
 
+To run boxplot visualization demo:
+
+```bash
+python scripts/pandas_boxplot_demo.py
+```
+
 ---
