@@ -287,4 +287,10 @@ To run line-plot trend analysis demo:
 python scripts/pandas_line_trend_demo.py
 ```
 
+To run scatter relationship analysis demo:
+
+```bash
+python scripts/pandas_scatter_demo.py
+```
+
 ---
