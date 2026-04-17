@@ -34,5 +34,6 @@
 - `04_38_distribution_comparison.ipynb`: Comparing distribution metrics across multiple columns.
 - `04_39_histogram_visualization.ipynb`: Histogram-based numeric distribution visualization.
 - `04_40_boxplot_visualization.ipynb`: Boxplot visualization for spread and outlier checks.
+- `04_41_line_plot_trends.ipynb`: Line-plot based year-wise trend identification.
 
 These notebooks form the onboarding path before dataset cleaning and model development work.
