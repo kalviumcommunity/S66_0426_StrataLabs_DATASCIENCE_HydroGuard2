@@ -293,4 +293,10 @@ To run scatter relationship analysis demo:
 python scripts/pandas_scatter_demo.py
 ```
 
+To run outlier detection demo (IQR rules):
+
+```bash
+python scripts/pandas_outlier_detection_demo.py
+```
+
 ---

@@ -36,5 +36,6 @@
 - `04_40_boxplot_visualization.ipynb`: Boxplot visualization for spread and outlier checks.
 - `04_41_line_plot_trends.ipynb`: Line-plot based year-wise trend identification.
 - `04_42_scatter_relationships.ipynb`: Scatter-plot based variable relationship exploration.
+- `04_43_outlier_detection.ipynb`: IQR-rule based outlier detection workflow.
 
 These notebooks form the onboarding path before dataset cleaning and model development work.
