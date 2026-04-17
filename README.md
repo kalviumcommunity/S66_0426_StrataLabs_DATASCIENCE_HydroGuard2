@@ -281,4 +281,10 @@ To run boxplot visualization demo:
 python scripts/pandas_boxplot_demo.py
 ```
 
+To run line-plot trend analysis demo:
+
+```bash
+python scripts/pandas_line_trend_demo.py
+```
+
 ---
